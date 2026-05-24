@@ -4,7 +4,7 @@
 This lab demonstrates an enterprise network design featuring secure multi-zone environments (LANs, Admin VLAN, and a DMZ Web Server) interconnected using dual FortiGate firewalls with an explicit internet gateway connection.
 
 ## 🗺️ Network Topology
-![Network Topology](/home/mr_ahmed/GNS3/github-projects/lab-1/Screenshot from 2026-05-24 20-36-08.png)
+![Network Topology](1.png)
 
 ## 🛠️ Tech Stack & Lab Environment
 * **Emulation:** GNS3
